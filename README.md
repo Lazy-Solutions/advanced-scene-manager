@@ -17,7 +17,7 @@ public MyScript : MonoBehaviour
     public RootScene rootScene;
     public Scene scene;
     
-    //TODO: Uhh.. Let's not do this in Update(), that's weird
+    //TODO: Uhh.. Let's not do this in Update(), that's weird :)
     public void Update()
     {        
         rootScene.Open(); //Close existing scene and any scene-less sub scenes
