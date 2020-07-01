@@ -5,7 +5,7 @@ Advanced Scene Manager allows you to assign [scenes](https://github.com/Zumwani/
 When a Root Scene is opened the current open Root Scene and any non-parented scenes will be closed and the newly opened Root Scene will have its associated scenes opened.
 
 Only one Root Scene can be open at a time, but scenes can still be opened without a parent.
-
+\
 ​
 ## How do I use it?
 The Scene Manager Window can be accessed from 'File -> Scene Manager' menu item. The Scene Manager can be used to create and Remove Root Scenes and assign any scenes as children.
