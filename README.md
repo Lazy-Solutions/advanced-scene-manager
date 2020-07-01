@@ -2,7 +2,7 @@
 Advanced Scene Manager is a new and improved scene management system for [Unity](https://unity.com/). Get it at the [Unity Asset Store!](https://assetstore.unity.com/)
 
 Advanced Scene Manager allows you to assign [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) as chilren to a [Root Scene](https://github.com/Zumwani/advanced-scene-manager/wiki/Root-Scene) (name pending). 
-When a [root scene](https://github.com/Zumwani/advanced-scene-manager/wiki/Root-Scene) is opened the current open [root scene](https://github.com/Zumwani/advanced-scene-manager/wiki/Root-Scene) and any non-parented [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) will be closed and the newly opened [root scene](https://github.com/Zumwani/advanced-scene-manager/wiki/Root-Scene) will have its associated [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) opened.
+When a [root scene](https://github.com/Zumwani/advanced-scene-manager/wiki/Root-Scene) is opened the currently open [root scene](https://github.com/Zumwani/advanced-scene-manager/wiki/Root-Scene) and any non-parented [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) will be closed and the newly opened [root scene](https://github.com/Zumwani/advanced-scene-manager/wiki/Root-Scene) will have its associated [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) opened.
 
 Only one Root Scene can be open at a time, but scenes can still be opened without a parent.<br/><br/>
  
