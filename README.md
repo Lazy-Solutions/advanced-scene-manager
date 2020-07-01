@@ -4,7 +4,7 @@ Advanced Scene Manager is a new and improved scene management system for [Unity]
 Advanced Scene Manager allows you to assign [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) as chilren to a [Root Scene](https://github.com/Zumwani/advanced-scene-manager/wiki/Root-Scene) (name pending). 
 When a [root scene](https://github.com/Zumwani/advanced-scene-manager/wiki/Root-Scene) is opened the currently open [root scene](https://github.com/Zumwani/advanced-scene-manager/wiki/Root-Scene) and any non-parented [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) will be closed and the newly opened [root scene](https://github.com/Zumwani/advanced-scene-manager/wiki/Root-Scene) will have its associated [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) opened.
 
-Only one Root Scene can be open at a time, but scenes can still be opened without a parent.<br/><br/>
+Only one [root scene](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) can be open at a time, but [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Root-Scene) can still be opened without a parent.<br/><br/>
  
 ## How do I use it?
 The [Scene Manager Window](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Manager-Window) can be accessed from 'File -> Scene Manager' menu item. The [Scene Manager](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Manager-Window) can be used to create and Remove [Root Scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Root-Scene) and assign any [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) as children.
