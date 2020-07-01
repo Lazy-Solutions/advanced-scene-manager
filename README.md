@@ -7,9 +7,9 @@ When a Root Scene is opened the current open Root Scene and any non-parented sce
 Only one Root Scene can be open at a time, but scenes can still be opened without a parent.<br/><br/>
  
 ## How do I use it?
-The Scene Manager Window can be accessed from 'File -> Scene Manager' menu item. The Scene Manager can be used to create and Remove Root Scenes and assign any scenes as children.
+The [Scene Manager Window](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Manager-Window) can be accessed from 'File -> Scene Manager' menu item. The [Scene Manager](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Manager-Window) can be used to create and Remove [Root Scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Root-Scene) and assign any [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) as children.
 
-The Root Scenes can be used like this:
+The [Root Scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Root-Scene) can be used like this:
 ```C#
 public MyScript : MonoBehaviour
 {
@@ -27,7 +27,7 @@ public MyScript : MonoBehaviour
     
 }
 ```
-Root Scenes and Scenes can also be opened from [UnityEvents](https://docs.unity3d.com/Manual/UnityEvents.html), such as from a [Button](https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/script-Button.html).
+[Root Scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Root-Scene) and [Scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) can also be opened from [UnityEvents](https://docs.unity3d.com/Manual/UnityEvents.html), such as from a [Button](https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/script-Button.html).
 <br/><br/>
 ## Where can I get it!?
 Advanced Scene Manager is available at the Unity Asset Store, [get it now!](https://assetstore.unity.com/)<br/><br/>
