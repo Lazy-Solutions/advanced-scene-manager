@@ -44,5 +44,3 @@ Root Scenes and Scenes can also be opened from [UnityEvents](https://docs.unity3
 ## Where can I get it!?
 Advanced Scene Manager is available at the Unity Asset Store, [get it now!](https://assetstore.unity.com/)
 ​
-
-​
