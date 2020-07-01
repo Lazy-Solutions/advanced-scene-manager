@@ -1,5 +1,5 @@
 # Advanced Scene Manager
-
+​
 ## What is Advanced Scene Manager?
 Advanced Scene Manager is a new and improved scene management system for [Unity](https://unity.com/). Get it at the [Unity Asset Store!](https://assetstore.unity.com/).
 
@@ -8,11 +8,12 @@ When a Root Scene is opened the current open Root Scene and any non-parented sce
 
 Only one Root Scene can be open at a time, but scenes can still be opened without a parent.
 
+​
 ## How do I use it?
 The Scene Manager Window can be accessed from 'File -> Scene Manager' menu item. The Scene Manager can be used to create and Remove Root Scenes and assign any scenes as children.
 
 The Root Scenes can be used like this:
-```
+```C#
 public MyScript : MonoBehaviour
 {
     
@@ -40,3 +41,7 @@ public MyScript : MonoBehaviour
 }
 ```
 Root Scenes and Scenes can also be opened from [UnityEvents](https://docs.unity3d.com/Manual/UnityEvents.html), such as from a [Button](https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/script-Button.html).
+
+​
+## Where can I get it!?
+Advanced Scene Manager is available at the Unity Asset Store, [get it now!](https://assetstore.unity.com/)
