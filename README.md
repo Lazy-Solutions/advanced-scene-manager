@@ -7,9 +7,12 @@ When a [Scene Collection](https://github.com/Zumwani/advanced-scene-manager/wiki
 Only one [Scene Collection](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) can be open at a time, but [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) can still be opened without a parent.<br/><br/>
  
 ## How do I use it?
-The [Scene Manager Window](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Manager-Window) can be accessed from 'File -> Scene Manager...' menu item. The [Scene Manager](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Manager-Window) can be used to create and Remove [Scene Collection](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) and assign any [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) as children.
+The [Scene Manager Window](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Manager-Window) can be accessed from 'File -> Scene Manager...' menu item. The [Scene Manager window](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Manager-Window) can be used to create and Remove [Scene Collection](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) and assign any [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) as children.
 
 ![alt text](https://github.com/Zumwani/advanced-scene-manager/blob/master/images/File-menu-and-scene-manager-window.png "File menu and scene manager window")
+
+
+​
 
 [Collections](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) and [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) can be used like this:
 ```C#
