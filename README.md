@@ -22,8 +22,7 @@ public MyScript : MonoBehaviour
     public SceneCollection collection;
     public Scene scene;
     
-    //TODO: Uhh.. Let's not do this in Update(), that's weird :)
-    public void Update()
+    public void DoStuff()
     {        
         collection.Open();   //Close all existing scenes and open scenes in collection, also shows loading screen
         scene.Open();        //Opens the scene, stand-alone, additive
