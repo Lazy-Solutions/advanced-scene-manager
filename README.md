@@ -16,6 +16,9 @@ The [Scene Manager Window](https://github.com/Zumwani/advanced-scene-manager/wik
 
 [Collections](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) and [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) can be used like this:
 ```C#
+
+using AdvancedSceneManager;
+
 public MyScript : MonoBehaviour
 {
     
@@ -23,13 +26,27 @@ public MyScript : MonoBehaviour
     public Scene scene;
     
     public void DoStuff()
-    {        
-        collection.Open();   //Close all existing scenes and open scenes in collection, also shows loading screen
-        scene.Open();        //Opens the scene, stand-alone, additive
-        scene.OpenSingle();  //Opens the scene, stand-alone, closes all existing scenes and collections
-        scene.Close();       //Closes the scene, stand-alone
-        scene.Toggle();      //Toggles the scene on or off, stand-alone
-        scene.Toggle(true);  //Makes sure that the scene is open, stand-alone
+    {     
+    
+        //All collection functions use a loading screen, if one is defined
+        collection.Open();        //Close all existing scenes and open scenes in collection
+        collection.Close();       //Closes all scenes
+        collection.Toggle();      //Toggles the collection on or off
+        collection.Toggle(true);  //Makes sure the collection is open
+        collection.Toggle(false);  //Makes sure the collection is closed
+        
+        //All scene functions open it as stand-alone (without collection)
+        scene.Open();         //Opens the scene, stand-alone, additive
+        scene.OpenSingle();   //Opens the scene, stand-alone, closes all existing scenes and collections
+        scene.Close();        //Closes the scene, stand-alone
+        scene.Toggle();       //Toggles the scene on or off, stand-alone
+        scene.Toggle(true);   //Makes sure that the scene is open, stand-alone
+        scene.Toggle(false);  //Makes sure that the scene is closed, stand-alone
+        
+        //All the above are proxy functions for functions in SceneManager.standalone or SceneManager.collection 
+        SceneManager.standalone.Open(scene);
+        SceneManager.collection.Open(collection);
+        
     }
     
 }
