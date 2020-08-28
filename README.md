@@ -52,7 +52,8 @@ public MyScript : MonoBehaviour
     
 }
 ```
-[Collections](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) and [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) can also be opened from [UnityEvents](https://docs.unity3d.com/Manual/UnityEvents.html), such as from a [Button](https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/script-Button.html), but it might be easier to use the [SceneHelper](https://github.com/Zumwani/advanced-scene-manager/wiki/SceneHelper), since might make it easier to find the [scene](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) or [collection](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) in the Object Picker.
+<br/><br/>
+[Collections](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) and [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) can also be opened from [UnityEvents](https://docs.unity3d.com/Manual/UnityEvents.html), such as from a [Button](https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/script-Button.html), but it might be easier to use the [SceneHelper](https://github.com/Zumwani/advanced-scene-manager/wiki/SceneHelper), since that might make it easier to find the [scene](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) or [collection](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) in the Object Picker.
 
 ![alt text](https://github.com/Zumwani/advanced-scene-manager/blob/master/images/Unity-event.png "Unity event")
 
