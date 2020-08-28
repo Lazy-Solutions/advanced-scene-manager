@@ -7,7 +7,7 @@ When a [Scene Collection](https://github.com/Zumwani/advanced-scene-manager/wiki
 Only one [collection](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) can be open at a time, but individual [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) can still be opened as stand-alone (not associated with a collection).<br/><br/>
  
 ## How do I use it?
-The [Scene Manager Window](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Manager-Window) can be accessed from 'File -> Scene Manager...' menu item. The [Scene Manager window](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Manager-Window) can be used to create and Remove [collections](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) and assign any [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) as children.
+The [Scene Manager Window](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Manager-Window) can be accessed from 'File -> Scene Manager...' menu item. The [Scene Manager window](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Manager-Window) can be used to create and remove [collections](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) and assign any [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) as children.
 
 ![alt text](https://github.com/Zumwani/advanced-scene-manager/blob/master/images/File-menu-and-scene-manager-window.png "File menu and scene manager window")
 
