@@ -2,7 +2,7 @@
 Advanced Scene Manager is a new and improved scene management system for [Unity](https://unity.com/). Get it at the [Unity Asset Store!](https://assetstore.unity.com/)
 
 Advanced Scene Manager allows you to assign [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) as chilren to a [Scene Collection](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) (commonly referred to as collections). 
-When a [Scene Collection](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) is opened the currently open [Scene Collection](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) and all stand-alone [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) will be closed and the newly opened [Scene Collection](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) will have its associated [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) opened.
+When a [Scene Collection](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) is opened all existing scenes will be closed and the newly opened [Scene Collection](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) will have its associated [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) opened.
 
 Only one [Scene Collection](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) can be open at a time, but [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) can still be opened without a parent.<br/><br/>
  
