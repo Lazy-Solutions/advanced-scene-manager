@@ -30,6 +30,7 @@ public MyScript : MonoBehaviour
     
         //All collection functions use a loading screen, if one is defined
         collection.Open();        //Close all existing scenes and open scenes in collection
+        collection.Reopen();        //Closes collection and then opens it again
         collection.Close();       //Closes all scenes
         collection.Toggle();      //Toggles the collection on or off
         collection.Toggle(true);  //Makes sure the collection is open
