@@ -17,6 +17,7 @@ The [Scene Manager Window](https://github.com/Zumwani/advanced-scene-manager/wik
 [Collections](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) and [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) can be used like this:
 ```C#
 
+using UnityEngine;
 using AdvancedSceneManager;
 
 public MyScript : MonoBehaviour
