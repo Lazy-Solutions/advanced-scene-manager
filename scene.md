@@ -1,14 +1,14 @@
-## What is a scene?
+## What is a Scene in Advanced Scene Manager?
 
 An ASM scene is our representation of a [SceneAsset ]()/ Unity scene. All [SceneAsset]()[s] in the project will have a corresponding Scene [ScriptableObject ]() generated for it. Aside from the slight confusion that might arise at first, this approach has numerous advantages:
 
 * Drag and drop references in inspector:
   
-  ![alt text](C:\Users\Zumwani\Documents\GitHub\advanced-scene-manager\images\Scene-reference.png "Unity event")
+  ![alt text](https://github.com/Zumwani/advanced-scene-manager/raw/master/images/Scene-reference.png "Unity event")
 
 * [UnityEvent ]()support (t might be easier to use [SceneHelper]() as target though, since that will help filter the [object picker]() to only display scenes):
   
-  ![alt text](C:\Users\Zumwani\Documents\GitHub\advanced-scene-manager\images\Unity-event.png "Unity event")
+  ![alt text](https://github.com/Zumwani/advanced-scene-manager/raw/master/images/Unity-event.png "Unity event")
 
 * More robust:
   

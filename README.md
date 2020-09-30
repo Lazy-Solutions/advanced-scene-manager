@@ -11,7 +11,7 @@ Only one [collection](https://github.com/Zumwani/advanced-scene-manager/wiki/Sce
 
 The [Scene Manager Window](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Manager-Window) can be accessed from 'File -> Scene Manager...' menu item. The [Scene Manager window](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Manager-Window) can be used to create and remove [collections](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) and assign any [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) as children.
 
-![alt text](C:\Users\Zumwani\Documents\GitHub\advanced-scene-manager\images\File-menu-and-scene-manager-window.png "File menu and scene manager window")
+![alt text](https://github.com/Zumwani/advanced-scene-manager/raw/master/images/File-menu-and-scene-manager-window.png "File menu and scene manager window")
 
 ​
 
@@ -59,7 +59,7 @@ public MyScript : MonoBehaviour
 <br/><br/>
 [Collections](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) and [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) can also be opened from [UnityEvents](https://docs.unity3d.com/Manual/UnityEvents.html), such as from a [Button](https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/script-Button.html), but it might be easier to use the [SceneHelper](https://github.com/Zumwani/advanced-scene-manager/wiki/SceneHelper), since that will make it easier to find the [scene](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) or [collection](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene-Collection) in the Object Picker.
 
-![alt text](C:\Users\Zumwani\Documents\GitHub\advanced-scene-manager\images\Unity-event.png "Unity event")
+![alt text](https://github.com/Zumwani/advanced-scene-manager/raw/master/images/Unity-event.png "Unity event")
 
 ## Where can I get it!?
 
