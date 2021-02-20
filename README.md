@@ -11,7 +11,7 @@ Only one [collection](https://github.com/Zumwani/advanced-scene-manager/wiki/Sce
 
 The [Scene Manager Window](https://github.com/Zumwani/advanced-scene-manager/wiki/SceneManagerWindow) can be accessed from 'File -> Scene Manager...' menu item. The [Scene Manager window](https://github.com/Zumwani/advanced-scene-manager/wiki/SceneManagerWindow) can be used to create and remove [collections](https://github.com/Zumwani/advanced-scene-manager/wiki/SceneCollection) and assign any [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) as children.
 
-![](image/File-menu-and-scene-manager-window.png "File menu and scene manager window")
+![](https://raw.githubusercontent.com/wiki/Lazy-Solutions/advanced-scene-manager/image/File-menu-and-scene-manager-window.png "File menu and scene manager window")
 ​
 
 [Collections](https://github.com/Zumwani/advanced-scene-manager/wiki/SceneCollection) and [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) can be used like this:
@@ -59,6 +59,6 @@ public MyScript : MonoBehaviour
 
 [Collections](https://github.com/Zumwani/advanced-scene-manager/wiki/SceneCollection) and [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) can also be opened from [UnityEvents](https://docs.unity3d.com/Manual/UnityEvents.html), such as from a [Button](https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/script-Button.html), but it might be easier to use the [SceneHelper](https://github.com/Zumwani/advanced-scene-manager/wiki/SceneHelper), since that will make it easier to find the [scene](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) or [collection](https://github.com/Zumwani/advanced-scene-manager/wiki/SceneCollection) in the Object Picker.
 
-![](image/Unity-event.png "Unity event")
+![](https://raw.githubusercontent.com/wiki/Lazy-Solutions/advanced-scene-manager/image/Unity-event.png "Unity event")
 ## Where can I get it!?
 Advanced Scene Manager is available at the Unity Asset Store, [get it now!](https://assetstore.unity.com/packages/slug/174152)<br/>
