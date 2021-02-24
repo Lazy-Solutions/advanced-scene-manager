@@ -2,6 +2,8 @@
 
 Advanced Scene Manager is a new and improved scene management system for [Unity](https://unity.com/). Get it at the [Unity Asset Store!](https://assetstore.unity.com/packages/slug/174152)
 
+This repo is responsible for hosting the [documentation](https://github.com/Zumwani/advanced-scene-manager/wiki).
+
 Advanced Scene Manager allows you to assign [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) as children to a [Scene Collection](https://github.com/Zumwani/advanced-scene-manager/wiki/SceneCollection) (commonly referred to as collections).
 When a [Scene Collection](https://github.com/Zumwani/advanced-scene-manager/wiki/SceneCollection) is opened all existing scenes will be closed and the newly opened [Scene Collection](https://github.com/Zumwani/advanced-scene-manager/wiki/SceneCollection) will have its associated [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) opened.
 
