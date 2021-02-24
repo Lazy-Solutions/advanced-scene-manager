@@ -7,7 +7,7 @@ When a [Scene Collection](https://github.com/Zumwani/advanced-scene-manager/wiki
 
 Only one [collection](https://github.com/Zumwani/advanced-scene-manager/wiki/SceneCollection) can be open at a time, but individual [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/SceneCollection) can still be opened as standalone.
 
-This repo is responsible for hosting the [documentation](https://github.com/Zumwani/advanced-scene-manager/wiki).
+Documentation can be found [here](https://github.com/Zumwani/advanced-scene-manager/wiki).
 
 ## How do I use it?
 
