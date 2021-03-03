@@ -7,9 +7,8 @@ When a [Scene Collection](https://github.com/Zumwani/advanced-scene-manager/wiki
 
 Only one [collection](https://github.com/Zumwani/advanced-scene-manager/wiki/SceneCollection) can be open at a time, but individual [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/SceneCollection) can still be opened as standalone.
 
-Documentation can be found [here](https://github.com/Zumwani/advanced-scene-manager/wiki).
-
 ## How do I use it?
+The [documentation](https://github.com/Zumwani/advanced-scene-manager/wiki) would be a good start, but here are the basics:
 
 The [Scene Manager Window](https://github.com/Zumwani/advanced-scene-manager/wiki/SceneManagerWindow) can be accessed from 'File -> Scene Manager...' menu item. The [Scene Manager window](https://github.com/Zumwani/advanced-scene-manager/wiki/SceneManagerWindow) can be used to create and remove [collections](https://github.com/Zumwani/advanced-scene-manager/wiki/SceneCollection) and assign any [scenes](https://github.com/Zumwani/advanced-scene-manager/wiki/Scene) as children.
 
